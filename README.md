@@ -24,6 +24,12 @@ This code was written for the TU Delft course AE4350, Bio-inspired Intelligence
 and Learning for Aerospace Applications.
 
 <p align="center">
+  <img src="assets/sim_circle.gif" width="520" alt="PyBullet simulation of the learned controller tracking a circle" />
+</p>
+
+The clip above is the PyBullet sim. Grey is the reference, blue is the flown path, red is the active waypoint.
+
+<p align="center">
   <img src="assets/circle.gif" width="340" alt="Circle path, RL in blue and PID in green" />
   <img src="assets/hsquare.gif" width="340" alt="Horizontal square, RL in blue and PID in green" />
 </p>
@@ -32,7 +38,7 @@ and Learning for Aerospace Applications.
   <img src="assets/circle_wind.gif" width="340" alt="Circle path with a mid-flight wind gust" />
 </p>
 
-Blue is the learned controller. Green is PID.
+In the plots, blue is the learned controller and green is PID.
 
 ## Install
 
