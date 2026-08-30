@@ -1,0 +1,11 @@
+config,seed,completed_pct,crashed,pre_rms,peak,post_rms
+randomized,0,100.0,False,0.016,0.285,0.052
+randomized,1,100.0,False,0.049,0.248,0.058
+randomized,2,100.0,False,0.025,0.287,0.046
+capstone,0,100.0,False,0.036,0.228,0.091
+capstone,1,100.0,False,0.029,0.268,0.056
+capstone,2,100.0,False,0.042,0.192,0.041
+authority25,0,100.0,False,0.074,0.224,0.085
+authority25,1,100.0,False,0.041,0.118,0.039
+authority25,2,100.0,False,0.038,0.106,0.058
+pid,0,100.0,False,0.019,0.106,0.069
